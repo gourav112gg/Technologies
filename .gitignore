@@ -13,6 +13,14 @@
 *.a
 *.so
 
+# Compiled executables
+a.out
+*
+
+# Debug symbol directories
+*.dSYM/
+
+
 # Compiled executables (without extension)
 BUUBLE_SORT/Ascending_Bubble_sort
 BUUBLE_SORT/Descending_Bubble_sort
