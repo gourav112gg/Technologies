@@ -1,5 +1,6 @@
 git add javascript
 
+git add -f javascript/01_basics/test.js
 # OS files
 .DS_Store
 .DS_Store?
